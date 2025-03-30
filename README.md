@@ -8,15 +8,13 @@ Currently exploring the intersection of **finance**, **AI**, and **product think
 
 ## 🚀 Featured Projects  
 
-## [CS2400 Multiple and Polynomial Regression Analysis](https://github.com/BenjaminYick/CS2400-Regression-Analysis)
+## [CS2400 Multiple and Polynomial Regression Analysis]([https://github.com/BenjaminYick/CS2400-Regression-Analysis](https://github.com/benjaminyjr17/24S2-CS2400-Regression-Analysis.git))
 
 Statistical modeling project analyzing socioeconomic determinants of mortality rates using multiple and polynomial regression techniques.
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)
 ![Status](https://img.shields.io/badge/Status-Completed-green.svg)
-
-<img src="https://raw.githubusercontent.com/BenjaminYick/CS2400-Regression-Analysis/main/results/regression_visualization.png" width="600">
 
 ### Critical Features
 * Advanced application of Cramer's Rule to solve standard equations for both regression models.
@@ -27,7 +25,7 @@ Statistical modeling project analyzing socioeconomic determinants of mortality r
 
 ### Results
 * Achieved **R² score of 0.5628** for multiple regression model using education and demographic variables.
-* Developed a polynomial model capturing non-linear relationships with R² of 0.4157.
+* Developed a polynomial model capturing non-linear relationships with **R² score of 0.4157.**
 * Provided evidence-based policy recommendations for healthcare resource allocation.
 
 ### 🔗 [HDB Price Predictor]([https://github.com/gracenngg/CB0494-HDB-Price-Predictions.git](https://github.com/gracenngg/CB0494-HDB-Price-Predictions.git)]  
