@@ -28,12 +28,6 @@ Statistical modeling project analyzing socioeconomic determinants of mortality r
 * Developed a polynomial model capturing non-linear relationships with **R² score of 0.4157.**
 * Provided evidence-based policy recommendations for healthcare resource allocation.
 
-### 🔗 [HDB Price Predictor]([https://github.com/gracenngg/CB0494-HDB-Price-Predictions.git](https://github.com/gracenngg/CB0494-HDB-Price-Predictions.git)]  
-
-An end-to-end machine learning pipeline for forecasting Singapore HDB flat prices using scikit-learn, pandas, and real-world resale data. Engineered feature pipelines, applied regression models, and deployed visualizations for insights.  
-
----  
-
 ## 💡 Skills & Interests  
 
 •	Financial modeling, automation, trading bots.  
