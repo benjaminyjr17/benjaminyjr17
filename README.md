@@ -17,7 +17,7 @@ Statistical modeling project analyzing socioeconomic determinants of mortality r
 ![Status](https://img.shields.io/badge/Status-Completed-green.svg)  
 
 ### Critical Features  
-* Advanced application of Cramer's Rule to solve standard equations for both regression models.  
+* Advanced applications of Cramer's Rule to solve standard equations for both regression models.  
 * Comprehensive data visualization with matplotlib and seaborn libraries.  
 * Extensive correlation analysis to identify key socioeconomic predictors of mortality.  
 * Implementation of both multiple and polynomial regression modeling techniques.  
