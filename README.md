@@ -8,7 +8,7 @@ Currently exploring the intersection of **finance**, **AI**, and **product think
 
 ## 🚀 Featured Projects  
 
-### 🔗 [HDB Price Predictor](https://github.com/friends-username/hdb-predictor](https://github.com/gracenngg/CB0494-HDB-Price-Predictions.git)  
+### 🔗 [HDB Price Predictor](https://github.com/gracenngg/CB0494-HDB-Price-Predictions.git]  
 
 An end-to-end machine learning pipeline for forecasting Singapore HDB flat prices using scikit-learn, pandas, and real-world resale data. Engineered feature pipelines, applied regression models, and deployed visualizations for insights.  
 
