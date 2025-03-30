@@ -30,11 +30,11 @@ Statistical modeling project analyzing socioeconomic determinants of mortality r
 
 ## 💡 Skills & Interests  
 
-•	Financial modeling, automation, trading bots.  
+•	Automation, financial modeling, and trading bots.  
 •	Git / GitHub / REST APIs.  
 •	Prompt engineering & LLMs.  
-•	Python / scikit-learn / Pandas / NumPy / Matplotlib.  
-•	SQL / Data Wrangling / Feature Engineering.  
+•	Matplotlib / NumPy / Pandas / Python / scikit-learn.  
+•	Data Wrangling / Feature Engineering / SQL.  
 
 ---  
 
