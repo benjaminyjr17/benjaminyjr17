@@ -8,7 +8,7 @@ Currently exploring the intersection of **AI**, **finance**, and **systems think
 
 ## 🚀 Featured Projects  
 
-## [CS2400 Multiple and Polynomial Regression Analysis]([https://github.com/BenjaminYick/CS2400-Regression-Analysis](https://github.com/benjaminyjr17/24S2-CS2400-Regression-Analysis.git))  
+## [24S2-CS2400 Multiple and Polynomial Regression Analysis]([https://github.com/BenjaminYick/CS2400-Regression-Analysis](https://github.com/benjaminyjr17/24S2-CS2400-Regression-Analysis.git))  
 
 Statistical modeling project analyzing socioeconomic determinants of mortality rates using multiple and polynomial regression techniques.  
 
