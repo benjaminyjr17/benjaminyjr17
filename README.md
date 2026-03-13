@@ -1,44 +1,41 @@
-# 👋 Hi, I'm Ben!  
+# Ben
 
-I'm a final-year Data Science and Artificial Intelligence (DSAI) undergraduate at Nanyang Technological University, Singapore, with double minors in Business and Communication Studies. I combine creativity, curiosity, and programming skills to solve real-world problems. I automate workflows, build machine learning tools, and develop intelligent systems that drive meaningful impact.  
+Software engineering-focused Data Science and Artificial Intelligence undergraduate at Nanyang Technological University, Singapore, with double minors in Business and Communication Studies.
 
-Currently exploring the intersection of **AI**, **finance**, and **systems thinking.**  
+I build backend services, decision-support tools, and applied AI systems with an emphasis on reliability, clarity, and practical impact. My work sits at the intersection of software engineering, analytics, and intelligent systems.
 
----  
+## Focus Areas
 
-## 🚀 Featured Projects  
+- Backend development with Python and API-driven workflows.
+- AI systems and decision-support platforms.
+- Data products, reproducible analysis, and engineering-minded research.
 
-## [24S2-CS2400 Multiple and Polynomial Regression Analysis]([https://github.com/BenjaminYick/CS2400-Regression-Analysis](https://github.com/benjaminyjr17/24S2-CS2400-Regression-Analysis.git))  
+## Selected Projects
 
-Statistical modeling project analyzing socioeconomic determinants of mortality rates using multiple and polynomial regression techniques.  
+### [MEDF - Multi-stakeholder Ethical Decision Framework for AI Systems](https://github.com/benjaminyjr17/ccds25-0582-medf)
+Final-year project delivering an auditable platform for evaluating AI applications across the EU AI Act ALTAI, NIST AI RMF, and Singapore MGAF.
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)  
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)  
-![Status](https://img.shields.io/badge/Status-Completed-green.svg)  
+- Built a FastAPI backend and Streamlit frontend for end-to-end evaluation workflows.
+- Implemented stakeholder-weighted MCDA scoring, conflict analysis, and Pareto tradeoff evaluation.
+- Designed the system for traceability, reproducibility, and deployment readiness.
 
-### Critical Features  
-* Advanced applications of Cramer's Rule to solve standard equations for both regression models.  
-* Comprehensive data visualization with matplotlib and seaborn libraries.  
-* Extensive correlation analysis to identify key socioeconomic predictors of mortality.  
-* Implementation of both multiple and polynomial regression modeling techniques.  
-* Statistical validation through residual analysis and R² evaluation.  
+### [24S2-CS2400 Regression Analysis](https://github.com/benjaminyjr17/24S2-CS2400-Regression-Analysis)
+Statistical modeling project exploring socioeconomic determinants of mortality through multiple and polynomial regression analysis.
 
-### Critical Findings  
-* Achieved **R² score of 0.5628** for multiple regression model using education and demographic variables.  
-* Developed a polynomial model capturing non-linear relationships with **R² score of 0.4157.**  
-* Provided evidence-based policy recommendations for healthcare resource allocation.  
+- Developed the analysis workflow in Python and Jupyter with visualization, correlation analysis, and residual evaluation.
+- Modeled both linear and non-linear relationships in real-world public health data.
+- Translated results into evidence-based recommendations with clear analytical interpretation.
 
-## 💡 Skills & Interests  
+## Technical Toolkit
 
-•	Automation, financial modeling, and trading bots.  
-•	Git / GitHub / REST APIs.  
-•	Prompt engineering & LLMs.  
-•	Matplotlib / NumPy / Pandas / Python / scikit-learn.  
-•	Data Wrangling / Feature Engineering / SQL.  
+`Python` `FastAPI` `Streamlit` `SQL` `Git` `GitHub` `REST APIs` `Pandas` `NumPy` `scikit-learn` `Jupyter`
 
----  
+## Interests
 
-## 📫 Connect With Me  
+Software engineering, applied AI, developer tooling, and data-driven product development.
 
-•	🔗 [LinkedIn](https://www.linkedin.com/in/benjaminyjr17)  
-•	📧 Academic E-Mail: BENJ0045@E.NTU.EDU.SG  
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/benjaminyjr17).
+- [ORCID](https://orcid.org/0009-0007-8460-3595).
+- Academic Email: `BENJ0045@E.NTU.EDU.SG`.
