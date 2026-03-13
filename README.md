@@ -1,6 +1,6 @@
 # Ben
 
-Software engineering-focused Data Science and Artificial Intelligence undergraduate at Nanyang Technological University, Singapore, with double minors in Business and Communication Studies.
+Software engineering-focused Data Science and Artificial Intelligence undergraduate at Nanyang Technological University, Singapore, with double minors in Business (Banking and Finance Specialization) and Communication Studies.
 
 I build backend services, decision-support tools, and applied AI systems with an emphasis on reliability, clarity, and practical impact. My work sits at the intersection of software engineering, analytics, and intelligent systems.
 
